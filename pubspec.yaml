@@ -23,7 +23,6 @@ dependencies:
   path: ^1.9.0
 
   # Platform / Telecom
-  flutter_phone_state: ^1.0.0
   permission_handler: ^11.3.1
   contacts_service: ^0.6.3
   flutter_contacts: ^1.1.9+1
